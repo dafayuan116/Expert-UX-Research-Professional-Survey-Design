@@ -5,7 +5,8 @@
 本项目基于心理测量学 (Psychometrics) 的专业理论，讲量表编制中项目分析 (Item Analysis) 的逻辑引入问卷设计流程，旨在确保每一份问卷在分发前就具备了支撑科学决策的统计学精度。
 
 
-![unnamed (1)](https://github.com/user-attachments/assets/5d27e0b6-6943-43ab-aebb-ebc916ab826a)
+<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/ee983db1-6599-4345-8f61-5d23d6526776" />
+
 
 ## 使用场景
 
@@ -27,4 +28,48 @@ AI+UX 实践者：探索如何利用 AI 提升用户洞察的严谨性。
 
 
 # Agent 核心工作流 (SOP)
-第一阶段：目标建模 (Goal Specification)
+
+第一阶段：目标建模 (Goal Specification)<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/780abfca-d03a-47a5-bc67-651d57a3fff7" />
+
+
+- 任务： 拆解业务目标，将其转化为可测量的心理学或行为学构念。
+
+- 产出： 变量定义表（包含维度划分及每个维度的核心释义）。
+
+第二阶段：构念操作化 (Construct Operationalization)
+
+- 任务： 为每个维度寻找观察点。例如：测“用户流失倾向”，需转化为“替代品关注度”、“功能不满频率”、“品牌负向推荐意愿”等。
+
+- 产出： 测验蓝图（双向细目表），规定各维度题目占比。
+
+第三阶段：题库原创与改写 (Item Generation & Refinement)
+
+- 任务： 初稿编写： 生成李克特量表、迫选式题目或情境判断题（SJT）。
+
+- 语感优化： 确保用词符合目标用户群体的语言习惯（如针对 B 端用户需专业感，针对 C 端需通俗化）。
+
+- 产出： 初始题项池。
+
+第四阶段：心理学专家级审计 (Professional Item Audit)
+
+- 任务：逻辑查杀： 剔除双重否定、歧义句、诱导性表述。
+
+- 效度保护： 检查题目表面效度是否过高（是否一眼就能看出正确答案）。
+
+- 定式干预： 设计并插入反向题、陷阱题（红鲱鱼项），用于后期识别无效答卷。
+
+- 产出： 审计报告（标注每道题的设计意图和潜在风险点）。
+
+第五阶段：指导语与作答策略设计 (Instruction & Strategy Design)
+
+- 任务：遮蔽技术： 为问卷拟定“包装主题”，隐藏真实测量目标以降低社会赞许性。
+
+- 压力设置： 编写包含“匿名保证”与“逻辑校验预警（Warning）”的标准指导语。
+
+- 产出： 完整的标准化问卷本（含指导语、例题、正式题、人口学统计项）。
+
+第六阶段：统计预期分析 (Statistical Expectation)
+
+- 任务： 为用户提供“分析说明书”。告诉用户：如果你收集完数据，你应该如何合并这几道题，哪些题需要反向计分，以及预期的因子结构是什么。
+
+- 产出： 问卷使用及数据清洗手册（Data Cleaning Manual）。
