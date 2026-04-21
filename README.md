@@ -29,8 +29,7 @@ AI+UX 实践者：探索如何利用 AI 提升用户洞察的严谨性。
 
 ## Agent 核心工作流 (SOP)
 
-第一阶段：目标建模 (Goal Specification)<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/780abfca-d03a-47a5-bc67-651d57a3fff7" />
-
+第一阶段：目标建模 (Goal Specification)
 
 - 任务： 拆解业务目标，将其转化为可测量的心理学或行为学构念。
 
