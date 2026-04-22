@@ -30,6 +30,7 @@
 
 <img width="534" height="94" alt="截屏2026-04-22 11 05 21" src="https://github.com/user-attachments/assets/e10b7caa-3e67-425a-91bb-25a6512b29dc" />
 
+
 逻辑：支付意愿更偏向行动，所以增加“意图”层的题目占比。
 
 ## 第四阶段：题库原创与改写 (Item Generation)
