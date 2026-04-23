@@ -42,10 +42,6 @@
 
 ### Step 3: 数据类型决策 (关键点)
 参照 `./methodology/Data_Design_Logic.md`，为每个维度匹配数据类型：
-- **定价/溢价** $\rightarrow$ 定比数据 (Ratio)。
-- **满意度/态度** $\rightarrow$ 定距数据 (Interval/李克特5点)。
-- **优先级/偏好** $\rightarrow$ 定序数据 (Ordinal)。
-- **画像/特征** $\rightarrow$ 定类数据 (Nominal)。
 
 ---
 
